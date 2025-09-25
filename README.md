@@ -2,6 +2,7 @@
 原生就挺好的JS框架
 
 ---
+[test页面预览](https://humblemoses.github.io/GenesisJS/test.es.html)
 
 > AI帮我生成的总结（不乏夸张成分）
 
